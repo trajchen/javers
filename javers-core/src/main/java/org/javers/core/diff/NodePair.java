@@ -81,7 +81,7 @@ public class NodePair {
     }
 
     public ObjectNode getFirst() {
-        return left;
+        return right;
     }
 
     boolean sameClass() {
